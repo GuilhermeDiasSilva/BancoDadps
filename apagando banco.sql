@@ -1,0 +1,2 @@
+-- comando para apagar banco
+-- drop database cadastro;
